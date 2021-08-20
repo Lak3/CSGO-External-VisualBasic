@@ -1,2 +1,2 @@
 # CSGO-External-VisualBasic
-Simple external cheat for CSGO, written with Visual Basic.
+Simple external training software for CSGO, written with Visual Basic.
